@@ -6,12 +6,12 @@
 <head runat="server">
     <title>Customer</title>
     <link rel="icon" type="image/png" href="logo.png" />
-    <link rel="stylesheet" type="text/css" href="StyleSheet2.css" />
+    <link rel="stylesheet" type="text/css" href="style2.css" />
 </head>
 <body class="customer-body">
     <form id="form2" runat="server">
         <div id="form1" runat="server">
-            <img accesskey="" src="log01.png" alt="logo" id="logo" />
+            <img accesskey="" src="logo.png" alt="logo" id="logo" />
             <div class="navbar">
                 <ul class="navbar-list">
                     <li class="navbar-list-items"><a class="link" href="Myinfo.aspx">My Information</a></li>

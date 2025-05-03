@@ -5,7 +5,7 @@
 <head runat="server">
     <title>Login</title>
     <link rel="icon" type="image/png" href="logo.png" />
-    <link rel="stylesheet" type="text/css" href="../StyleSheet.css" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
 </head>
 <body>
     <img accesskey="" src="logo.png" alt="logo" id="logo" />
